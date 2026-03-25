@@ -1,0 +1,2300 @@
+{
+  "session_id": "classroom_001",
+  "total_windows": 21,
+  "metadata": {
+    "detection_method": "opencv",
+    "analysis_timestamp": "2026-03-24T21:59:59",
+    "author": "Harshavardhan Perla (25CS60R72)"
+  },
+  "windows": [
+    {
+      "window_id": 1,
+      "timestamp": 0,
+      "group_score": 75.93,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 83.76
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 64.54
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 66.49
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 82.21
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 64.0
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 0.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 62.56,
+        "down": 1.74,
+        "left": 2.85,
+        "right": 32.85
+      }
+    },
+    {
+      "window_id": 2,
+      "timestamp": 6,
+      "group_score": 71.95,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 91.36
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 77.37
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 65.19
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 61.27
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 46.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 71.13,
+        "down": 0.69,
+        "left": 1.71,
+        "right": 26.47
+      }
+    },
+    {
+      "window_id": 3,
+      "timestamp": 12,
+      "group_score": 75.55,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 92.32
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 93.19
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 70.5
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 69.17
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 92.05
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 0.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 74.17,
+        "down": 1.03,
+        "left": 1.52,
+        "right": 23.27
+      }
+    },
+    {
+      "window_id": 4,
+      "timestamp": 18,
+      "group_score": 71.47,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 86.9
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 62.64
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 60.06
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 66.57
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 47.88
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 46.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 69.58,
+        "down": 1.35,
+        "left": 6.16,
+        "right": 22.91
+      }
+    },
+    {
+      "window_id": 5,
+      "timestamp": 24,
+      "group_score": 72.91,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 64.34
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 80.68
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 63.53
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 54.0
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 46.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 63.37,
+        "down": 0.31,
+        "left": 5.69,
+        "right": 30.62
+      }
+    },
+    {
+      "window_id": 6,
+      "timestamp": 30,
+      "group_score": 76.4,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 84.35
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 46.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 79.43,
+        "down": 1.52,
+        "left": 0.54,
+        "right": 18.5
+      }
+    },
+    {
+      "window_id": 7,
+      "timestamp": 36,
+      "group_score": 75.47,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 88.83
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 62.44
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 60.85
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 46.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 75.94,
+        "down": 1.9,
+        "left": 7.02,
+        "right": 15.14
+      }
+    },
+    {
+      "window_id": 8,
+      "timestamp": 42,
+      "group_score": 72.82,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 76.05
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 91.06
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 63.34
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 63.84
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 87.57
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 46.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 72.69,
+        "down": 0.85,
+        "left": 7.75,
+        "right": 18.71
+      }
+    },
+    {
+      "window_id": 9,
+      "timestamp": 48,
+      "group_score": 81.37,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 72.74
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 92.96
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 64.15
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 46.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 73.12,
+        "down": 0.05,
+        "left": 9.05,
+        "right": 17.78
+      }
+    },
+    {
+      "window_id": 10,
+      "timestamp": 54,
+      "group_score": 85.67,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 72.27
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 83.83
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 70.0
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 82.0
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 0.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 73.27,
+        "down": 0.03,
+        "left": 9.91,
+        "right": 16.8
+      }
+    },
+    {
+      "window_id": 11,
+      "timestamp": 60,
+      "group_score": 69.55,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 76.52
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 63.1
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 48.38
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 65.64
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 48.18
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 0.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 75.96,
+        "down": 4.27,
+        "left": 9.05,
+        "right": 10.71
+      }
+    },
+    {
+      "window_id": 12,
+      "timestamp": 66,
+      "group_score": 75.75,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 78.14
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 79.8
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 62.84
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 73.43
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 46.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 65.29,
+        "down": 1.76,
+        "left": 6.34,
+        "right": 26.61
+      }
+    },
+    {
+      "window_id": 13,
+      "timestamp": 72,
+      "group_score": 75.58,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 91.0
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 78.0
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 47.14
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 0.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 70.86,
+        "down": 2.43,
+        "left": 0.54,
+        "right": 26.17
+      }
+    },
+    {
+      "window_id": 14,
+      "timestamp": 78,
+      "group_score": 73.27,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 86.16
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 78.45
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 84.61
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 89.09
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 67.33
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 0.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 64.53,
+        "down": 3.15,
+        "left": 1.93,
+        "right": 30.39
+      }
+    },
+    {
+      "window_id": 15,
+      "timestamp": 84,
+      "group_score": 72.66,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 78.47
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 89.71
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 91.66
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 62.16
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 57.2
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 88.67
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 46.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 63.65,
+        "down": 3.12,
+        "left": 9.96,
+        "right": 23.27
+      }
+    },
+    {
+      "window_id": 16,
+      "timestamp": 90,
+      "group_score": 73.14,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 72.9
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 91.13
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 91.37
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 64.12
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 54.24
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 93.12
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 55.6
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 46.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 62.73,
+        "down": 1.09,
+        "left": 17.05,
+        "right": 19.13
+      }
+    },
+    {
+      "window_id": 17,
+      "timestamp": 96,
+      "group_score": 74.51,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 73.78
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 76.72
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 63.1
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 0.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 65.91,
+        "down": 1.68,
+        "left": 19.56,
+        "right": 12.85
+      }
+    },
+    {
+      "window_id": 18,
+      "timestamp": 102,
+      "group_score": 76.24,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 75.75
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 62.34
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 57.08
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 46.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 62.75,
+        "down": 0.21,
+        "left": 13.52,
+        "right": 23.52
+      }
+    },
+    {
+      "window_id": 19,
+      "timestamp": 108,
+      "group_score": 71.94,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 84.54
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 88.63
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 63.42
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 49.25
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 64.0
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 53.16
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 46.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 70.84,
+        "down": 4.03,
+        "left": 8.25,
+        "right": 16.88
+      }
+    },
+    {
+      "window_id": 20,
+      "timestamp": 114,
+      "group_score": 69.1,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 80.32
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 92.06
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 63.41
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 56.18
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 57.71
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 53.68
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 46.5
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 0.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 55.77,
+        "down": 3.67,
+        "left": 10.54,
+        "right": 30.02
+      }
+    },
+    {
+      "window_id": 21,
+      "timestamp": 120,
+      "group_score": 74.54,
+      "zone_engagement": [
+        {
+          "zone_id": "R1C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C2",
+          "engagement_score": 84.1
+        },
+        {
+          "zone_id": "R1C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R1C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R1C6",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R2C2",
+          "engagement_score": 86.62
+        },
+        {
+          "zone_id": "R2C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C4",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R2C5",
+          "engagement_score": 64.36
+        },
+        {
+          "zone_id": "R2C6",
+          "engagement_score": 62.0
+        },
+        {
+          "zone_id": "R3C1",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R3C2",
+          "engagement_score": 59.71
+        },
+        {
+          "zone_id": "R3C3",
+          "engagement_score": 94.0
+        },
+        {
+          "zone_id": "R3C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R3C5",
+          "engagement_score": 50.27
+        },
+        {
+          "zone_id": "R3C6",
+          "engagement_score": 46.0
+        },
+        {
+          "zone_id": "R4C1",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C2",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C3",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C4",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C5",
+          "engagement_score": 0.0
+        },
+        {
+          "zone_id": "R4C6",
+          "engagement_score": 0.0
+        }
+      ],
+      "dominant_gaze_distribution": {
+        "forward": 62.54,
+        "down": 4.01,
+        "left": 6.07,
+        "right": 27.38
+      }
+    }
+  ]
+}
